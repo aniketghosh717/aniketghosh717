@@ -11,8 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/aniketghosh717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aniketghosh717" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-ghosh14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-ghosh14" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/aniketghosh717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aniketghosh717" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aniket_ghosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniket_ghosh/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aniketghosh717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketghosh717" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aniketghosh717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketghosh717" height="30" width="40" /></a>
 </p>
 
@@ -22,6 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketghosh717&show_icons=true&locale=en&layout=compact" alt="aniketghosh717" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketghosh717&show_icons=true&locale=en" alt="aniketghosh717" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketghosh717&" alt="aniketghosh717" /></p>
 
