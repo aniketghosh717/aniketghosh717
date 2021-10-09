@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h1 align="center">Hi 👋, I'm Aniket Ghosh</h1>
 <h3 align="center">A passionate Frontend and Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghosh717&label=Profile%20views&color=0e75b6&style=flat" alt="aniketghosh717" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketghosh717" alt="aniketghosh717" /></a> </p>
 
 - 📫 How to reach me **aniketghosh717@gmail.com**
 
