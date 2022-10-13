@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **aniketghosh717@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/q5ny64b9yie590v/aniket_resume.pdf?dl=0](https://www.dropbox.com/s/q5ny64b9yie590v/aniket_resume.pdf?dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/s/q5ny64b9yie590v/aniket_resume.pdf?dl=0](https://www.dropbox.com/s/q5ny64b9yie590v/aniket_resume.pdf?dl=0 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
